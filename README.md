@@ -1,4 +1,4 @@
-# BMI_Calculator_Python
+# Python BMI Calculator
 A BMI calculator in Python which categorises the result based on user input.
 
 ## How it Works
